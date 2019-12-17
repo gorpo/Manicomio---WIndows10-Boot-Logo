@@ -1,8 +1,6 @@
 # Manicomio---Windows10-Boot-Logo
 Script para mudar a logotipo do Windows10 para a do Manicomio Tcxs Project.
 
-https://github.com/gorpo/Manicomio---WIndows10-Boot-Logo/blob/master/splash.bmp
-
 - Caso queira por sua propria logo mudar o arquivo .bmp dentro do script.
 
 Instruções:
