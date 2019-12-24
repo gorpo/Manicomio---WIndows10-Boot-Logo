@@ -1,5 +1,11 @@
 # Manicomio---Windows10-Boot-Logo
 Script para mudar a logotipo do Windows10 para a do Manicomio Tcxs Project.
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+
+
+<img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
+
 
 - Caso queira por sua propria logo mudar o arquivo .bmp dentro do script.
 
